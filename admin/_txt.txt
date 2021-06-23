@@ -1,0 +1,41 @@
+In this source code, you will learn how to create a class scheduling system. This system will help your school manage the assigning of the schedule of classes without conflict. It can detect if the room was already taken by other instructors. It can also detect if there's a conflict with time. The admin user can manage all the data in the system database such as the list of courses, teachers, subjects, rooms, and academic school year. This system also have an examination schedule fetaures where the admin or system user can set the class exam schedule along with some details such as the location their proctor.
+
+This system was orginally created in PHP/MySQLi and submitted on year 2013 and now upgraded to PHP/MySQLi so that this system can run into a higher version of PHP like PHP7.
+
+Features:
+Website
+Exam Schedule Viewer
+Class Schedule Viewer
+News And Events
+About Page
+Site Map
+Calendar of Events
+
+System Users Side
+Login Page
+Home Page
+Class Schedule Management
+Exam Schedule Management
+Teacher Management
+Course Year/Section Management
+Subject Management
+Room Management
+Department Management
+Academic School Year Management
+History Log
+User Account Management
+
+How to Run
+<ol><li><strong>Download&nbsp;</strong>the&nbsp;<strong>source code</strong>&nbsp;and&nbsp;<strong>extract&nbsp;</strong>the&nbsp;<strong>zip</strong>&nbsp;file.</li>
+<li>Download or set up any&nbsp;<strong>local web server</strong>&nbsp;that runs&nbsp;<strong>PHP&nbsp;</strong>script.</li>
+<li>Open the web-server database and create a new database name it&nbsp;<strong>"css"</strong>.</li>
+<li>Import the&nbsp;<strong>SQL</strong>&nbsp;file located in&nbsp;the&nbsp;<strong>backup&nbsp;</strong>folder of the source code.</li>
+<li>Copy and paste the source code to the location where your local web server accessing your local projects. Example for<strong>&nbsp;XAMPP('C:\xampp\htdocs')</strong></li>
+<li>Open a&nbsp;<strong>web browser</strong>&nbsp;and&nbsp;<strong>browse&nbsp;</strong>the project. E.g&nbsp;<strong>[<a href="http://localhost/online_class_scheduling_system" rel="nofollow">http://localhost/online_class_scheduling_system</a>]&nbsp;</strong>and for&nbsp;<strong>&nbsp;admin [<a href="http://localhost/online_class_scheduling_system/admin" rel="nofollow">http://localhost/online_class_scheduling_system/admin</a>]</strong></li>
+</ol>
+Admin Default Access
+Username: teph    
+Password: teph
+
+Hope that this source code will help you a lot.
+Happy Codign :)
